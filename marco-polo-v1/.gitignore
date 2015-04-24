@@ -1,3 +1,6 @@
 .idea
 *.xd*
 *.iml
+platforms/ios/cordova/console.log
+platforms/android/ant-build/
+platforms/android/CordovaLib/ant-build/

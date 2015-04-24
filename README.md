@@ -9,3 +9,7 @@ marco-polo-v1 is the official repo for the project. you can create your own fold
 4. nodejs tutorial: http://nodeschool.io/#workshoppers
 
 5. git school : https://try.github.io/levels/1/challenges/1
+
+6. Java 1.7 is needed for android: http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+
+7. Android SDK packages are listed in marco-polo-v1/platforms/android/androidpackages.png
